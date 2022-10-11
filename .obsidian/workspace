@@ -4,122 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "744b08490a6c714f",
+        "id": "d432a89cea96ecf8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "yoon.mac.icloud/01. to think - mindmap.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aee9af81a40de871",
-    "type": "split",
+    "id": "29f8095d5fbe8d22",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8ee78de6fcb1ca52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "974788d4f8f25baf",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7a999de1ec66c66b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "9cb0d9d78030c039",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "16fb754c14280e41",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "70e44a4076d68fee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "54145a66e3cb644b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d47e829df558cc20",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "54a856bc2fac21ec",
-    "type": "split",
+    "id": "ebb9c2e5cedef401",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "071f84e991349370",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "985b532e9fba0049",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "69ebe4e200612fb3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bbe35fc2e1f460f9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "1bfd791e0bf5499b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "deb3378af2a335d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "yoon.mac.icloud/01. to think - mindmap.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "41346d2ae7b98db6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "yoon.mac.icloud/01. to think - mindmap.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ecc37dd09fe81ca7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "yoon.mac.icloud/01. to think - mindmap.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "744b08490a6c714f",
-  "lastOpenFiles": []
+  "active": "d432a89cea96ecf8",
+  "lastOpenFiles": [
+    "yoon.mac.icloud/02. to do - kanban.md",
+    "yoon.mac.icloud/01. to think - mindmap.md",
+    "yoon.mac.icloud/02.Area (기한 X)/mac/mac.tip.md",
+    "obsidian.tip/깨알팁.md",
+    "yoon.mac.icloud/03.Resources (관심사)/vue-swit task manager 만들기.md",
+    "yoon.mac.icloud/03.Resources (관심사)/OAuth 2.0.md"
+  ]
 }
