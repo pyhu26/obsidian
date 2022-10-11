@@ -7,27 +7,23 @@
         "id": "744b08490a6c714f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "obsidian.tip/옵시디언 이미지 저장 경로 설정법.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "05f2065805aaaa18",
+    "id": "aee9af81a40de871",
     "type": "split",
     "children": [
       {
-        "id": "c600160993813291",
+        "id": "8ee78de6fcb1ca52",
         "type": "tabs",
         "children": [
           {
-            "id": "3068838603b707da",
+            "id": "974788d4f8f25baf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "0c38658b82c120cb",
+            "id": "7a999de1ec66c66b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "024a55e75559ee14",
+            "id": "9cb0d9d78030c039",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "3c9c48cd29484c01",
+    "id": "54a856bc2fac21ec",
     "type": "split",
     "children": [
       {
-        "id": "ca1dee5708bf37a1",
+        "id": "071f84e991349370",
         "type": "tabs",
         "children": [
           {
-            "id": "4509b26190cd50e8",
+            "id": "985b532e9fba0049",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.tip/옵시디언 이미지 저장 경로 설정법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +84,18 @@
             }
           },
           {
-            "id": "a4f618586c610a9e",
+            "id": "69ebe4e200612fb3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.tip/옵시디언 이미지 저장 경로 설정법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "11b52eb9ebb3ab4f",
+            "id": "bbe35fc2e1f460f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,13 +106,11 @@
             }
           },
           {
-            "id": "5915b98cd7381123",
+            "id": "1bfd791e0bf5499b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian.tip/옵시디언 이미지 저장 경로 설정법.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,14 +121,5 @@
     "collapsed": true
   },
   "active": "744b08490a6c714f",
-  "lastOpenFiles": [
-    "obsidian.tip/img/Pasted image 20221007165524.png",
-    "Pasted image 20221007165212.png",
-    "Pasted image 20221007165226.png",
-    "Pasted image 20221007164958.png",
-    "obsidian.tip/img/Pasted image 20221007165344.png",
-    "obsidian.tip/옵시디언 이미지 저장 경로 설정법.md",
-    "yoon.win/test.md",
-    "yoon.mac/dashboard/tyt.md"
-  ]
+  "lastOpenFiles": []
 }
